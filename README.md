@@ -1,4 +1,4 @@
-# 🚀 [Project Title]
+# 🚀 [PLC-Programable Logic Controller]
 
 <div align="center">
 <div style="background-color: #000; padding: 20px; border-radius: 12px; display: inline-block;">
@@ -25,40 +25,31 @@
 ### 👥 Team Members
 | Name | Role | Email | LinkedIn |
 |------|------|-------|----------|
-| [Member 1 Name] | [Team Lead/Developer] | [email@example.com] | [LinkedIn Profile] |
-| [Member 2 Name] | [Developer/Researcher] | [email@example.com] | [LinkedIn Profile] |
-| [Member 3 Name] | [Developer/Analyst] | [email@example.com] | [LinkedIn Profile] |
-| [Member 4 Name] | [Developer/Tester] | [email@example.com] | [LinkedIn Profile] |
+| [Amalkrishna OU] | [Team Lead/Developer] | [amalkrishna34@gmail.com] | [https://www.linkedin.com/in/amal-krishna-629168338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] |
+| [Jaims Aldrin Dcunja] | [Developer/Researcher] | [jaimsaldrin2211@gmail.com] | [https://www.linkedin.com/in/jaims-aldrin-264169338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] |
 
 > **Note:** Add or remove rows as needed based on your team size
 
 ### 🎯 Description
-[Provide a clear and concise description of your project. Explain what problem it solves, what technologies are used, and what makes it unique. This should be 2-3 sentences that give readers a quick understanding of your work.]
+Oru project is a PLC (programmable logic controller).It is mainly used in industrial fields,it is the core of industrial automation.It helps in the automation of equipments in real time.Our plc has 32 pins which includes 8 pins for pwm 12v,8pins for pwm 24v,8 pins for on/off 12v, 8 pins for on/off 24v.PLC uses SMPS,74HC595,ESP32  and PWM.Our PLC can be used for small application such as for controlling motors,lights etc which areunder 12v and 24v.
 
 ---
 
 ## 🔧 Technical Specifications
 
-### **For AI/ML Intern Projects:**
-- **Programming Languages:** Python, R, Julia, etc.
-- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, etc.
-- **Data Processing:** Pandas, NumPy, OpenCV, etc.
-- **Model Type:** [Classification/Regression/NLP/Computer Vision/etc.]
-- **Dataset:** [Brief description of data used]
-
 ### **For Embedded Developer Intern Projects:**
-- **Microcontroller/Platform:** Arduino, Raspberry Pi, ESP32, STM32, etc.
-- **Programming Languages:** C/C++, Python, Assembly, etc.
+- **Microcontroller/Platform:** Arduino, ESP32.
+- **Programming Languages:** C/C++
 - **Communication Protocols:** I2C, SPI, UART, WiFi, Bluetooth, etc.
-- **Sensors/Components:** [List of hardware components used]
-- **Development Environment:** Arduino IDE, PlatformIO, Keil, etc.
+- **Sensors/Components:** [74H595,LM3339]
+- **Development Environment:** Arduino IDE, Keil, etc.
 
 ---
 
 ## ⚙️ Project Working
 
 ### Architecture Overview
-[Provide a high-level overview of how your project works. You can include diagrams, flowcharts, or system architecture images here.]
+https://github.com/Amalkrishna-1997/internship-project/blob/main/smps%2012v%2050%20a.jpg
 
 ### Key Components
 1. **Component 1:** [Brief description]
